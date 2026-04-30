@@ -6,3 +6,16 @@ Advanced fusion techniques: Integrates information across sensors to enhance pre
 RUL estimation: Provides predictive insights to support proactive maintenance and minimize downtime.
 Scalable implementation: Suitable for real-world industrial datasets and operational environments.
 This repository includes all data preprocessing steps, feature engineering, model implementation, and evaluation scripts to reproduce the results.
+
+
+
+## 👤 Author
+
+**Bishal Sarkar**  
+Data Science @ IIT Guwahati  
+
+Passionate about Machine Learning, RAG systems, and real-world AI applications.
+
+- 🔗 GitHub: https://github.com/bishal-bit  
+- 💼 LinkedIn: [https://linkedin.com/in/bishal-sarkar](https://www.linkedin.com/in/bishal-sarkar-b98106217/)  
+- 📧 Email: bishal.sarkar2001@gmail.com
